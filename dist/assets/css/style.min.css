@@ -15,7 +15,8 @@
   src: url("./../assets/fonts/Quicksand-Bold.ttf") format("truetype"); }
 
 .header {
-  height: 80px; }
+  height: 80px;
+  font-size: 12px; }
 
 .header__nav-wrap {
   margin: 0 117px; }
@@ -26,6 +27,13 @@
 .header__btn {
   margin-left: 47px;
   background: #D2E1FF; }
+
+.hero {
+  height: 570px;
+  background-color: #c4cdf7; }
+
+.customers__inner {
+  min-height: 145px; }
 
 .help {
   padding: 175px 0; }

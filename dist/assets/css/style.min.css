@@ -35,6 +35,49 @@
 .customers__inner {
   min-height: 145px; }
 
+.plan {
+  background-image: url(../images/plan.png);
+  background-repeat: no-repeat;
+  background-size: 60%;
+  background-position: right;
+  min-height: 776px; }
+
+.plan__title {
+  font-family: "QuicksandMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 45px;
+  color: #3D4F9F; }
+
+.plan__span {
+  font-family: "RobotoRegular";
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #3D4F9F; }
+
+.plan__paragraf {
+  font-family: "RobotoRegular";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 29px;
+  letter-spacing: 0.03em;
+  color: #8D96BD; }
+
+.plan__video,
+.plan__features {
+  width: 130px;
+  height: 43px;
+  border-radius: none;
+  -webkit-border-radius: none;
+  -moz-border-radius: none;
+  -ms-border-radius: none;
+  -o-border-radius: none; }
+
 .help {
   padding: 175px 0; }
 
